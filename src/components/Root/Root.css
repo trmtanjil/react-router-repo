@@ -1,0 +1,10 @@
+.Saidevar{
+    display: flex;
+    gap: 10px;
+    background: #33b707;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+nav a.active{
+    text-decoration: underline;
+}
